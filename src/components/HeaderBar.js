@@ -5,7 +5,7 @@ const HeaderBar = () => {
   return (
     <header className="header">
       <h1>Product Store</h1>
-      <ButtonMode/>
+      <ButtonMode />
     </header>
   );
 };
